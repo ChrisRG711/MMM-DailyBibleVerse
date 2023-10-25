@@ -54,6 +54,14 @@ The following properties can be configured:
 			<td><code>size</code></td>
 			<td>Default size is medium but it can be overriden with <code>xsmall</code>, <code>small</code> or <code>large</code>.</td>
 		</tr>
+		<tr>
+			<td><code>textColor</code></td>
+			<td>Set the text color you desire.</td>
+		</tr>
+		<tr>
+			<td><code>textAligment</code></td>
+			<td>Set how you want the text aligned on the screen. Left, Center, Right</td>
+		</tr>
 	</tbody>
 </table>
 
